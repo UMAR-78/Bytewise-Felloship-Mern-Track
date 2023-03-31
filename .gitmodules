@@ -13,3 +13,6 @@
 [submodule "clone-Of-useabiltyHub-website"]
 	path = clone-Of-useabiltyHub-website
 	url = https://github.com/UMAR-78/clone-Of-useabiltyHub-website.git
+[submodule "Netflix-Landing-Page"]
+	path = Netflix-Landing-Page
+	url = https://github.com/UMAR-78/Netflix-Landing-Page.git
