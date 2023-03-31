@@ -4,3 +4,6 @@
 [submodule "University-Website"]
 	path = University-Website
 	url = https://github.com/UMAR-78/University-Website.git
+[submodule "Youtube-Clone"]
+	path = Youtube-Clone
+	url = https://github.com/UMAR-78/Youtube-Clone.git
