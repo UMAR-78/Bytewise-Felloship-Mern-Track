@@ -1,3 +1,6 @@
 [submodule "Real-State-Website-using-Tailwind-Css"]
 	path = Real-State-Website-using-Tailwind-Css
 	url = https://github.com/UMAR-78/Real-State-Website-using-Tailwind-Css.git
+[submodule "University-Website"]
+	path = University-Website
+	url = https://github.com/UMAR-78/University-Website.git
