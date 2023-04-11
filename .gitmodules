@@ -16,3 +16,6 @@
 [submodule "Netflix-Landing-Page"]
 	path = Netflix-Landing-Page
 	url = https://github.com/UMAR-78/Netflix-Landing-Page.git
+[submodule "MyJsPracticeProjects"]
+	path = MyJsPracticeProjects
+	url = https://github.com/UMAR-78/MyJsPracticeProjects.git
